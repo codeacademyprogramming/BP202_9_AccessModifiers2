@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e940939a-bbca-47c7-8c58-fc8dd26294d8": {
+      "ProjectGuid": "e940939a-bbca-47c7-8c58-fc8dd26294d8",
+      "DisplayName": "29032022",
+      "ColorIndex": 0
+    },
+    "88e00c85-5422-4b34-ae0c-6ca435501ace": {
+      "ProjectGuid": "88e00c85-5422-4b34-ae0c-6ca435501ace",
+      "DisplayName": "NewConsole",
+      "ColorIndex": 1
+    },
+    "7cc6b982-98f0-416b-b1bd-6fa88e653f06": {
+      "ProjectGuid": "7cc6b982-98f0-416b-b1bd-6fa88e653f06",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
